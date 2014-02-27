@@ -1,0 +1,6 @@
+C:\Users\anudeep\Documents\Visual Studio 2013\Projects\SampleWCF\SampleWCF\bin\SampleWCF.dll.config
+C:\Users\anudeep\Documents\Visual Studio 2013\Projects\SampleWCF\SampleWCF\bin\SampleWCF.dll
+C:\Users\anudeep\Documents\Visual Studio 2013\Projects\SampleWCF\SampleWCF\bin\SampleWCF.pdb
+C:\Users\anudeep\Documents\Visual Studio 2013\Projects\SampleWCF\SampleWCF\obj\Debug\SampleWCF.csprojResolveAssemblyReference.cache
+C:\Users\anudeep\Documents\Visual Studio 2013\Projects\SampleWCF\SampleWCF\obj\Debug\SampleWCF.dll
+C:\Users\anudeep\Documents\Visual Studio 2013\Projects\SampleWCF\SampleWCF\obj\Debug\SampleWCF.pdb
